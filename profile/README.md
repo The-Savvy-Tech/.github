@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 # Welcome to The Savvy Tech
-<!--
 
+### The Savvy Tech is tailored for innovative builders, creators, developers and startups eager to leverage advanced no-code/low-code technologies and quickly launch their ideas.
+
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
